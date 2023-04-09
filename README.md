@@ -1,4 +1,4 @@
-# Free-Premium-StalCraft-Hack-HYROCOPT-cheats-Free-Haks-Esp-AimBot
+# StalCraft-Hack-cheats-Free-Haks-Esp-AimBot
 Our cheat supports windows 7/10/11
 
 # Download Cheat
